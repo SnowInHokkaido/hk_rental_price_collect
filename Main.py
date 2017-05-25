@@ -1,13 +1,12 @@
 # -*- coding: utf-8 -*-
 '''
 Target: Collect all the posts published after 2017/04/01 and update the information everyday.
-Process
+Procedures:
 1. Website Access
 2. Filter the posts
-3. Save the posts into CSV???(Title, content, publish time, url)
+3. Save the posts into CSV
 4. Everyday updating
 '''
-
 
 import urllib
 import urllib2
